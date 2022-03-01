@@ -1,9 +1,9 @@
 # 8-puzzle
-##Giới thiệu về chương trình##
+## Giới thiệu về chương trình ##
 - Xuất phát từ một game xếp hình cực kỳ quen thuộc với chúng ta - Game 8-puzzle, bài toán đặt ra là liệu có một thuật giải có thể đưa ra được một cách giải cho một cấu hình bất kỳ với số lần di chuyển là tối thiểu. Chương trình được xây dựng nhằm tìm ra câu trả lời đó.
----Lưu ý rằng, mục tiêu của dự án này chỉ là tìm ra thuật giải, do vậy mình sẽ không xây dựng đồ họa mà làm hoàn toàn trên console (100% code C)---
+**Lưu ý rằng, mục tiêu của dự án này chỉ là tìm ra thuật giải, do vậy mình sẽ không xây dựng đồ họa mà làm hoàn toàn trên console (100% code C)**
 
-##Hướng dẫn sử dụng chương trình##
+## Hướng dẫn sử dụng chương trình ##
 1. *Chơi một game bình thường*
 - Một bảng 9 ô với kích thước 3x3 sẽ xuất hiện. Trên đó có các số đánh số từ 0 đến 8, với số 0 có thể coi như là vị trí trống (có tối đa 4 ô xung quanh có thể di chuyển tới ô 0 này - tối đa 4 cách di chuyển trong 1 lượt).
 - Các ô có thể di chuyển được là các ô được đánh số từ 1 đến 8. Nhiệm vụ của bạn là di chuyển một ô mỗi lượt cho đến khi bảng này có vị trí các ô như bên dưới:
