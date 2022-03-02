@@ -1,6 +1,6 @@
 # 8-puzzle
 ## Giới thiệu về chương trình ##
-- Xuất phát từ một game xếp hình cực kỳ quen thuộc với chúng ta - Game 8-puzzle ![This is an image](8 puzzle.png), bài toán đặt ra là liệu có một thuật giải có thể đưa ra được một cách giải cho một cấu hình bất kỳ với số lần di chuyển là tối thiểu. Chương trình được xây dựng nhằm tìm ra câu trả lời đó.
+- Xuất phát từ một game xếp hình cực kỳ quen thuộc với chúng ta - Game 8-puzzle ![This is an image](https://raw.githubusercontent.com/jashdb/8-puzzle/main/8%20puzzle.png), bài toán đặt ra là liệu có một thuật giải có thể đưa ra được một cách giải cho một cấu hình bất kỳ với số lần di chuyển là tối thiểu. Chương trình được xây dựng nhằm tìm ra câu trả lời đó.
 **Lưu ý rằng, mục tiêu của dự án này chỉ là tìm ra thuật giải, do vậy mình sẽ không xây dựng đồ họa mà làm hoàn toàn trên console (100% code C)**
 
 ## Hướng dẫn sử dụng chương trình ##
